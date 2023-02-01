@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm a software developer with a passion for creating innovative and user-friendly applications.
 
-###Skills
+### Skills
 
 
 Programming Languages: Java, Python, JavaScript
