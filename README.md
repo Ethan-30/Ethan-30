@@ -11,7 +11,5 @@ Other: Git, AWS
 - 📫 How to reach me: [FaceBook](https://www.facebook.com/namdohuu30/)
 &nbsp;&nbsp;
 ![](./profile-3d-contrib/profile-night-view.svg)
-&nbsp;&nbsp;
+&nbsp;&nbsp;/n
 ![](https://komarev.com/ghpvc/?username=matatb30&color=green)
-&nbsp;&nbsp;
-![](https://komarev.com/ghpvc/?username=matatb30&color=dc143c)
