@@ -3,17 +3,22 @@
 ### Hi there 👋 I'm a software developer with a passion for creating innovative and user-friendly applications.
 
 Skills
+
+
 Programming Languages: Java, Python, JavaScript
+
+
 Web Development: React, Node.js, Express
+
+
 Database: MySQL, MongoDB
+
+
 Other: Git, AWS
+
+
 
 - 📫 How to reach me: [FaceBook](https://www.facebook.com/namdohuu30/)
 &nbsp;&nbsp;
 ![](./profile-3d-contrib/profile-night-view.svg)
-&nbsp;&nbsp;
 
-
-
-
-![](https://komarev.com/ghpvc/?username=matatb30&color=green)
