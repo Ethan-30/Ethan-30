@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nam</h1>
 <h3 align="center">A software developer with a passion for creating innovative and user-friendly applications.</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=matatb30&theme=algolia&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ethan-30&theme=algolia&show_icons=true" />
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
